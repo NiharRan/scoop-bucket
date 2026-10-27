@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/NiharRan/unclog/releases/download/v0.1.0/unclog_0.1.0_windows_amd64.zip",
+            "bin": [
+                "unclog.exe"
+            ],
+            "hash": "27fac63e633bf11bead959c37c11dedb865c8eab2cb14f64813034c6e77d7aff"
+        },
+        "arm64": {
+            "url": "https://github.com/NiharRan/unclog/releases/download/v0.1.0/unclog_0.1.0_windows_arm64.zip",
+            "bin": [
+                "unclog.exe"
+            ],
+            "hash": "4c31f6cce2814a8fbda14a42251b6236de449cb2fe96cbb729b64df386d50ab6"
+        }
+    },
+    "homepage": "https://github.com/NiharRan/unclog",
+    "license": "MIT",
+    "description": "Find and clean RAM, disk and process waste left by AI coding tools"
+}
