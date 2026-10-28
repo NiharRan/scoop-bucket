@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NiharRan/unclog/releases/download/v0.1.0/unclog_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/NiharRan/unclog/releases/download/v0.1.1/unclog_0.1.1_windows_amd64.zip",
             "bin": [
                 "unclog.exe"
             ],
-            "hash": "27fac63e633bf11bead959c37c11dedb865c8eab2cb14f64813034c6e77d7aff"
+            "hash": "0d3a97aae4971d63e9d47e306d134d1f377f40d56c9462ee0d39103f1029625a"
         },
         "arm64": {
-            "url": "https://github.com/NiharRan/unclog/releases/download/v0.1.0/unclog_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/NiharRan/unclog/releases/download/v0.1.1/unclog_0.1.1_windows_arm64.zip",
             "bin": [
                 "unclog.exe"
             ],
-            "hash": "4c31f6cce2814a8fbda14a42251b6236de449cb2fe96cbb729b64df386d50ab6"
+            "hash": "8aa03dbf162d2badcb27b624e63dd88e7ae23baeb90e8a5c827a63a63c91d33e"
         }
     },
     "homepage": "https://github.com/NiharRan/unclog",
